@@ -24,10 +24,8 @@ Requirements
 
 How to Run
 
-### Step 1: Collect Face Images
+Step 1: Collect Face Images
 Run this command to start capturing face images:
-
-```bash
 python start.py
 It will open your webcam.
 Make sure your face is visible.
